@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 HaluMem is a groundbreaking evaluation framework that exposes systemic failures in AI memory systems. Unlike traditional end-to-end testing, HaluMem provides operational-level assessment to diagnose exactly where and why memory failures occur.
 
-![Memory](./memory.jpg)
+![Memory](./memory.png)
 
 ## Demo Points
 
