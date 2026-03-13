@@ -81,7 +81,7 @@ export default function OperationFlow() {
                 ...op,
                 status: step.success ? 'success' : 'error',
                 output: step.output,
-                error: step.error
+                error: 'error' in step ? step.error : undefined
               };
             }
             return op;
